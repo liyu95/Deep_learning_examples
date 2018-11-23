@@ -9,5 +9,5 @@ Reference:
 * [Extracting a biologically relevant latent space from cancer transcriptomes with variational autoencoders](https://www.ncbi.nlm.nih.gov/pubmed/29218871), https://github.com/greenelab/tybalt
 
 Further references if you are interested in drug design with VAE:
-https://github.com/samsinai/VAE_protein_function
-https://github.com/rampasek/DrVAE
+* https://github.com/samsinai/VAE_protein_function
+* https://github.com/rampasek/DrVAE
