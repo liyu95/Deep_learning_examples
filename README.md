@@ -34,7 +34,7 @@ This example shows how to perform diagnosis with ResNet on the X-ray images.
 * Data type: 2D image or profiling data
 * Research direction: biomedical image processing and diagnosis
 
-#### 5.GNN_human_disease_network
+#### 5.GNN_PPI_network
 This example shows how to using graph neural network to perform graph embedding and predict protein protein interactions in PPI network.
 
 * Model: graph convolutional neural network
