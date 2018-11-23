@@ -35,21 +35,21 @@ This example shows how to perform diagnosis with ResNet on the X-ray images.
 * Research direction: biomedical image processing and diagnosis
 
 #### 5.GNN_human_disease_network
-This example shows how to using graph neural network to perform graph embedding and 
+This example shows how to using graph neural network to perform graph embedding and predict protein protein interactions in PPI network.
 
 * Model: graph convolutional neural network
 * Data type: graph data
 * Research direction: biomolecule interaction prediction and systems biology
 
 #### 6.GAN_image_SR
-This example shows 
+This example shows how to perform biological image super resolution with GAN.
 
 * Model: GAN
 * Data type: 2D image or profiling data
 * Research direction: biomedical image processing and diagnosis
 
 #### 7.VAE_high_dim_biological_data_embedding_generation
-This example shows 
+This example shows how to use VAE to reduce the dimensionality of gene expression profile.
 
 * Model: VAE
 * Data type: 2D image or profiling data
