@@ -9,12 +9,9 @@ Here is the overview of the eight examples:
 #### 1.Fully_connected_psepssm_predict_enzyme
 This example shows how to use a neural network to predict the identify enzymes.
 
-Model: deep fully connected neural network
-
-Data type: structured data
-
-Research direction: biomolecular property and function prediction
-
+* Model: deep fully connected neural network
+* Data type: structured data
+* Research direction: biomolecular property and function prediction
 
 
 
