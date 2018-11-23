@@ -1,2 +1,2 @@
-# Deep_learning_examples
+# Examples of using deep learning in Bioinformatics
 Deep learning examples
