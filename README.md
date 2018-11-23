@@ -14,10 +14,10 @@ This example shows how to use a neural network to predict the identify enzymes.
 * Research direction: biomolecular property and function prediction
 
 #### 2.CNN_RNN_sequence_analysis
-This example shows 
+This example shows how to use the combination of CNN and RNN to predict the non-coding DNA sequence function.
 
-* Model: 
-* Data type: 
+* Model: CNN, RNN
+* Data type: 1D sequence data
 * Research direction: sequence analysis
 
 #### 3.Regression_gene_expression
@@ -27,36 +27,36 @@ This example shows how to use deep learning to predict target gene expression wi
 * Data type: structured data
 * Research direction: biomolecule interaction prediction and systems biology
 
-#### 4.ResNet_OCT_classification
-This example shows 
+#### 4.ResNet_X-ray_classification
+This example shows how to perform diagnosis with ResNet on the X-ray images.
 
-* Model: 
-* Data type: 
+* Model: ResNet
+* Data type: 2D image or profiling data
 * Research direction: biomedical image processing and diagnosis
 
 #### 5.GNN_human_disease_network
 This example shows 
 
-* Model: 
-* Data type: 
+* Model: graph convolutional neural network
+* Data type: graph data
 * Research direction: biomolecule interaction prediction and systems biology
 
 #### 6.GAN_image_SR
 This example shows 
 
-* Model: 
-* Data type: 
+* Model: GAN
+* Data type: 2D image or profiling data
 * Research direction: biomedical image processing and diagnosis
 
 #### 7.VAE_high_dim_biological_data_embedding_generation
 This example shows 
 
-* Model: 
-* Data type: 
-* Research direction:
+* Model: VAE
+* Data type: 2D image or profiling data
+* Research direction: biomolecule interaction prediction and systems biology
 
 #### 8.RBP_prediction_CNN
-This example shows how to perform RNA-protein binding sites prediction with CNN
+This example shows how to perform RNA-protein binding sites prediction with CNN.
 
 * Model: CNN
 * Data type: 1D sequence data
