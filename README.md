@@ -6,7 +6,7 @@ To facilitate the process, in this repository, we provide eight examples, which 
 
 The related tutorial and review manuscript can be referred here: [Deep learning in bioinformatics: introduction, application, and perspective in big data era](https://www.biorxiv.org/content/10.1101/563601v1)
 
-If you find the tutorial and this repository useful, please cite our manuscript with the following information
+If you find the tutorial and this repository useful, please cite our manuscript with the following information:
 ```
 @article {li2019deep,
 	author = {Li, Yu and Huang, Chao and Ding, Lizhong and Li, Zhongxiao and Pan, Yijie and Gao, Xin},
@@ -19,7 +19,6 @@ If you find the tutorial and this repository useful, please cite our manuscript 
 	eprint = {https://www.biorxiv.org/content/early/2019/02/28/563601.full.pdf},
 	journal = {bioRxiv}
 }
-
 ```
 
 
