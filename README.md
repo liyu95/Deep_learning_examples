@@ -4,7 +4,7 @@ Deep learning, which is especially formidable in handling big data, has achieved
 
 To facilitate the process, in this repository, we provide eight examples, which cover five research directions, four data types, and a number of deep learning models that people will encounter in Bioinformatics. The five research directions are: sequence analysis, structure prediction and reconstruction, biomolecular property and function prediction, biomedical image processing and diagnosis, biomolecule interaction prediction and systems biology. The four data types are: structured data, 1D sequence data, 2D image or profiling data, graph data. The covered deep learning models are: deep fully connected neural networks, ConvNet, RNN, graph convolutional neural network, ResNet, GAN, VAE.
 
-The related tutorial and review manuscript can be referred here: [Deep learning in bioinformatics: introduction, application, and perspective in big data era](https://www.biorxiv.org/content/10.1101/563601v1)
+The related tutorial and review manuscript can be referred here: [Deep learning in bioinformatics: introduction, application, and perspective in big data era](https://arxiv.org/abs/1903.00342)
 
 If you find the tutorial and this repository useful, please cite our manuscript with the following information:
 ```
