@@ -8,16 +8,11 @@ The related tutorial and review manuscript can be referred here: [Deep learning 
 
 If you find the tutorial and this repository useful, please cite our manuscript with the following information:
 ```
-@article {li2019deep,
-	author = {Li, Yu and Huang, Chao and Ding, Lizhong and Li, Zhongxiao and Pan, Yijie and Gao, Xin},
-	title = {Deep learning in bioinformatics: introduction, application, and perspective in big data era},
-	elocation-id = {563601},
-	year = {2019},
-	doi = {10.1101/563601},
-	publisher = {Cold Spring Harbor Laboratory},
-	URL = {https://www.biorxiv.org/content/early/2019/02/28/563601},
-	eprint = {https://www.biorxiv.org/content/early/2019/02/28/563601.full.pdf},
-	journal = {bioRxiv}
+@article{li2019deep,
+  title={Deep learning in bioinformatics: introduction, application, and perspective in big data era},
+  author={Li, Yu and Huang, Chao and Ding, Lizhong and Li, Zhongxiao and Pan, Yijie and Gao, Xin},
+  journal={arXiv preprint arXiv:1903.00342},
+  year={2019}
 }
 ```
 
