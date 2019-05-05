@@ -2,7 +2,7 @@
 
 ### This work has been officially published, but we will keep updating this repository to keep up with the most advanced researches. If you have any suggestions, feel free to open an issue. You are also very welcomed to contribute.
 
-The related tutorial and review manuscript can be referred here: [Deep learning in bioinformatics: introduction, application, and perspective in the big data era](https://www.sciencedirect.com/science/article/pii/S1046202318303256) [PDF](https://drive.google.com/open?id=1ltLk9n2SQ0j076QUqU633EpB2KJbQX7O)
+The related tutorial and review manuscript can be referred here: [Deep learning in bioinformatics: introduction, application, and perspective in the big data era](https://www.sciencedirect.com/science/article/pii/S1046202318303256) [[PDF]](https://drive.google.com/open?id=1ltLk9n2SQ0j076QUqU633EpB2KJbQX7O)
 
 If you find the tutorial and this repository useful, please cite our manuscript with the following information:
 ```
