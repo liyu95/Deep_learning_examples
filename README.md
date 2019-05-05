@@ -1,20 +1,24 @@
 # Examples of using deep learning in Bioinformatics
 
-Deep learning, which is especially formidable in handling big data, has achieved great success in various fields, including bioinformatics. With the advances of the big data era in biology, it is foreseeable that deep learning will become increasingly important in the field and will be incorporated in vast majorities of analysis pipelines.
+### This work has been officially published, but we will keep updating this repository to keep up with the most advanced researches. If you have any suggestions, feel free to open an issue. You are also very welcomed to contribute.
 
-To facilitate the process, in this repository, we provide eight examples, which cover five research directions, four data types, and a number of deep learning models that people will encounter in Bioinformatics. The five research directions are: sequence analysis, structure prediction and reconstruction, biomolecular property and function prediction, biomedical image processing and diagnosis, biomolecule interaction prediction and systems biology. The four data types are: structured data, 1D sequence data, 2D image or profiling data, graph data. The covered deep learning models are: deep fully connected neural networks, ConvNet, RNN, graph convolutional neural network, ResNet, GAN, VAE.
-
-The related tutorial and review manuscript can be referred here: [Deep learning in bioinformatics: introduction, application, and perspective in big data era](https://arxiv.org/abs/1903.00342)
+The related tutorial and review manuscript can be referred here: [Deep learning in bioinformatics: introduction, application, and perspective in the big data era](https://www.sciencedirect.com/science/article/pii/S1046202318303256) [PDF](https://drive.google.com/open?id=1ltLk9n2SQ0j076QUqU633EpB2KJbQX7O)
 
 If you find the tutorial and this repository useful, please cite our manuscript with the following information:
 ```
-@article{li2019deep,
-  title={Deep learning in bioinformatics: introduction, application, and perspective in big data era},
-  author={Li, Yu and Huang, Chao and Ding, Lizhong and Li, Zhongxiao and Pan, Yijie and Gao, Xin},
-  journal={arXiv preprint arXiv:1903.00342},
-  year={2019}
-}
+@article{LI2019,
+title = "Deep learning in bioinformatics: Introduction, application, and perspective in the big data era",
+journal = "Methods",
+year = "2019",
+issn = "1046-2023",
+doi = "https://doi.org/10.1016/j.ymeth.2019.04.008",
+url = "http://www.sciencedirect.com/science/article/pii/S1046202318303256",
+author = "Yu Li and Chao Huang and Lizhong Ding and Zhongxiao Li and Yijie Pan and Xin Gao",}
 ```
+
+Deep learning, which is especially formidable in handling big data, has achieved great success in various fields, including bioinformatics. With the advances of the big data era in biology, it is foreseeable that deep learning will become increasingly important in the field and will be incorporated in vast majorities of analysis pipelines.
+
+To facilitate the process, in this repository, we provide eight examples, which cover five research directions, four data types, and a number of deep learning models that people will encounter in Bioinformatics. The five research directions are: sequence analysis, structure prediction and reconstruction, biomolecular property and function prediction, biomedical image processing and diagnosis, biomolecule interaction prediction and systems biology. The four data types are: structured data, 1D sequence data, 2D image or profiling data, graph data. The covered deep learning models are: deep fully connected neural networks, ConvNet, RNN, graph convolutional neural network, ResNet, GAN, VAE.
 
 
 Here is the overview of the eight examples:
