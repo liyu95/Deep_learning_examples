@@ -6,7 +6,7 @@
 <img src="https://github.com/lykaust15/Deep_learning_examples/blob/master/cover_image_for_Methods/methods_cover_image.jpg" width="600" alt="cover image" title='Cover image for the Methods issue'/>
 </p>
 <p align="center">
-Cover image for the Methods issue
+This article has been selected for the cover image of the corresponding Methods issue
 </p>
 
 The related tutorial and review manuscript can be referred here: [Deep learning in bioinformatics: introduction, application, and perspective in the big data era](https://www.sciencedirect.com/science/article/pii/S1046202318303256) [[PDF]](https://drive.google.com/open?id=1ltLk9n2SQ0j076QUqU633EpB2KJbQX7O)
