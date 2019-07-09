@@ -4,7 +4,8 @@
 
 <p align="center">
 <img src="https://github.com/lykaust15/Deep_learning_examples/blob/master/cover_image_for_Methods/methods_cover_image.jpg" width="600" alt="cover image" title='Cover image for the Methods issue'/>
-//
+</p>
+<p align="center">
 Cover image for the Methods issue
 </p>
 
